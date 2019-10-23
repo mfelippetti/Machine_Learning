@@ -1,0 +1,16 @@
+
+AMBIENTE TESTES: \\crivo_hml 
+
+Arquivos JUPYTER NOTEBOOK:
+--------------------------
+-> \\crivo_hml\Users\administrador.GRUPOSINOSSERRA\Documents\tmp_ml
+
+
+Arquivos PYTHON:
+----------------
+-> 
+
+
+
+observações:
+- copiar para [\Documents\GitHub\machine_learning] para sincronização com github
